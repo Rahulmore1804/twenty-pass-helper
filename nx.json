@@ -3,7 +3,7 @@
     "default": ["{projectRoot}/**/*"],
     "excludeStories": [
       "default",
-      "!{projectRoot}/.storybook/*",
+      "!{projectRoot}/.storybook/*",frfrfrfrf
       "!{projectRoot}/**/tsconfig.storybook.json",
       "!{projectRoot}/**/*.stories.(ts|tsx)",
       "!{projectRoot}/**/__stories__/*"
